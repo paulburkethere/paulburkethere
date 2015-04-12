@@ -1,0 +1,8 @@
+background: #b5bdc8; /* Old browsers */
+background: -moz-radial-gradient(center, ellipse cover, #b5bdc8 0%, #828c95 87%); /* FF3.6+ */
+background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#b5bdc8), color-stop(87%,#828c95)); /* Chrome,Safari4+ */
+background: -webkit-radial-gradient(center, ellipse cover, #b5bdc8 0%,#828c95 87%); /* Chrome10+,Safari5.1+ */
+background: -o-radial-gradient(center, ellipse cover, #b5bdc8 0%,#828c95 87%); /* Opera 12+ */
+background: -ms-radial-gradient(center, ellipse cover, #b5bdc8 0%,#828c95 87%); /* IE10+ */
+background: radial-gradient(ellipse at center, #b5bdc8 0%,#828c95 87%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b5bdc8', endColorstr='#828c95',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
